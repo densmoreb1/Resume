@@ -1,1 +1,3 @@
-<a href="../resume.pdf" target="_blank">PDF</a>
+# Resume
+
+<a href="resume.pdf" target="_blank">PDF</a>
