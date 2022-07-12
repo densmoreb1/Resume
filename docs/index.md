@@ -1,3 +1,3 @@
 # Resume
 
-<a href="resume.pdf" target="_blank">PDF</a>
+<a href="resume.pdf" target="_blank">Brandon Densmore</a>
